@@ -4,6 +4,7 @@
 <img  height="198em" src="https://github-readme-stats.vercel.app/api?username=Deolime90&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img lt="Deyvidy-shelby" src="https://media.giphy.com/media/pJ1ZE8aGTg3jG/giphy.gif">
  [![](https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ [![](https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   <img  height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deolime90&layout=compact&langs_count=16&theme=dark"/></br>
   
   <div style="display: inline_block"><br>
