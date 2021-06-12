@@ -1,16 +1,16 @@
 ### Hi, I´m Deyvidy Melo echanical Engineering and data scienist.
 
-  [![](https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
-  ](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<img  height="198em" src="https://github-readme-stats.vercel.app/api?username=Deolime90&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img lt="Deyvidy-shelby" src="https://media.giphy.com/media/pJ1ZE8aGTg3jG/giphy.gif">
- [![](https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/4-productive-time.svg)
- ](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deolime90&langs_count=16&theme=dark&hide_border=False"/>
+<div>
+ <a href="https://github.com/Deolime90">
+ <img height="180em" src="https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Deolime90&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em"lt="Deyvidy-shelby" src="https://media.giphy.com/media/pJ1ZE8aGTg3jG/giphy.gif"><br>
+ <img height="180em" src="https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/4-productive-time.svg"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deolime90&theme=dark&hide_border=False"/>
+</div>
 
   
   <div style="display: inline_block"><br>
-  <a href="https://github.com/Deolime90">
   <img align="center" alt="deolime-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="deolime-r" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg">
   <img align="center" alt="deolime-matlab" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
