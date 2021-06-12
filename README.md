@@ -1,4 +1,4 @@
-## Olá, me chamo Deyvidy Melo 
+### Hi, I´m Deyvidy Melo echanical Engineering and data scienist.
 
   [![](https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
   ](https://github.com/vn7n24fzkq/github-profile-summary-cards)
