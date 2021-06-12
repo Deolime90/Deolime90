@@ -10,7 +10,7 @@
 
   
   <div style="display: inline_block"><br>
-  <a href="https://instagram.com/Deolime90" target="_blank">
+  <a href="https://instagram.com/Deolime90" target="https://github.com/Deolime90">
   <img align="center" alt="deolime-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="deolime-r" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg">
   <img align="center" alt="deolime-matlab" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
