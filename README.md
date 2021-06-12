@@ -2,11 +2,11 @@
 
 <div>
  <a href="https://github.com/Deolime90">
- <img height="180em" src="https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Deolime90&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em"lt="Deyvidy-shelby" src="https://media.giphy.com/media/pJ1ZE8aGTg3jG/giphy.gif"><br>
- <img height="180em" src="https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/4-productive-time.svg"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deolime90&theme=dark&hide_border=False"/>
+ <img height="220em" src="https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+ <img height="220em" src="https://github-readme-stats.vercel.app/api/?username=Deolime90&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="220em"lt="Deyvidy-shelby" src="https://media.giphy.com/media/pJ1ZE8aGTg3jG/giphy.gif"><br>
+ <img height="220em" src="https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/4-productive-time.svg"/>
+ <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deolime90&theme=dark&hide_border=False"/>
 </div>
 
   
