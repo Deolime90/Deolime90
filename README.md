@@ -1,5 +1,12 @@
-### Hi, I´m Deyvidy Melo echanical Engineering and data scienist.
-
+<h3> Hi, I´m Deyvidy Melo echanical Engineering and data scienist.
+  <a href="https://instagram.com/Deolime90" target="_blank">
+   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: deyvidyoliveiramelo@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/deyvidy" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</h3>
+ 
 <div>
  <a href="https://github.com/Deolime90">
  <img height="195em" src="https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
