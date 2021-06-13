@@ -1,4 +1,4 @@
-### Hi, I´m Deyvidy Melo echanical Engineering and data scienist.
+### Hi, I´m Deyvidy Melo Mechanical Engineer and data scienist.
   
  
 <div>
