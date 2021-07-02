@@ -3,8 +3,8 @@
  
 <div align="center">
  <a href="https://github.com/Deolime90">
- <img height="170em" src="https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
- <img height="170em" src="https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/4-productive-time.svg"/>
+ <img height="165em" src="https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+ <img height="165em" src="https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/4-productive-time.svg"/>
  <img height="175em" src="https://github-readme-stats.vercel.app/api/?username=Deolime90&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deolime90&layout=compact&theme=dark&hide_border=False"/>
    
