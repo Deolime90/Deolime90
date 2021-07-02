@@ -1,13 +1,17 @@
 ### Hi, I´m Deyvidy Melo, Mechanical Engineer and data scientist.
   
  
-<div>
+<div align="center">
  <a href="https://github.com/Deolime90">
- <img height="195em" src="https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+ <img height="185em" src="https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+ <img height="185em" src="https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/4-productive-time.svg"/>
  <img height="190em" src="https://github-readme-stats.vercel.app/api/?username=Deolime90&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="190em"lt="Deyvidy-gif" src="https://media.giphy.com/media/euuaA2cwLEUuI/giphy.gif"><br>
- <img height="190em" src="https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/nord_dark/4-productive-time.svg"/>
- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deolime90&theme=dark&hide_border=False"/>
+ <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deolime90&layout=compact&theme=dark&hide_border=False"/>
+   
+<!-- 
+<img height="190em"lt="Deyvidy-gif" src="https://media.giphy.com/media/euuaA2cwLEUuI/giphy.gif"><br>
+-->
+
 </div>
 
   
@@ -16,11 +20,12 @@
   <img align="center" alt="deolime-r" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg">
   <img align="center" alt="deolime-matlab" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
   <img align="center" alt="deolime-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="deolime-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="deolime-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="deolime-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="deolime-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="deolime-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="deolime-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="deolime-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+
   </div>
   
 ##
