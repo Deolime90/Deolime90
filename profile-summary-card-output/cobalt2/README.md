@@ -15,16 +15,6 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/Deolime90/Deolime90/main/profile-summary-card-output/cobalt2/0-profile-details.svg)
-```
-
-    
-
----
-
 ![](./1-repos-per-language.svg)
 
 ```
